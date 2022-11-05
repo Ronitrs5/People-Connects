@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484517246033",
+    "project_id": "people-connects",
+    "storage_bucket": "people-connects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484517246033:android:99921342d1dd8fba8a7470",
+        "android_client_info": {
+          "package_name": "com.example.peopleconnects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484517246033-mioq1patk95cfo9j95d67ne6aci5jejs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw3LuFzxZl-xOiTjg_xQM1ZHQkegCSkrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484517246033-mioq1patk95cfo9j95d67ne6aci5jejs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

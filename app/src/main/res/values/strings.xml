@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">People Connects</string>
+    <string name="register">Register</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="enter_gmail">Enter Gmail</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="create_password">Create Password</string>
+    <string name="people_connects">People Connects</string>
+    <string name="create_account">Create account?</string>
+    <string name="people_connect">People Connects</string>
+    <string name="enter_gmails">Enter Gmail</string>
+    <string name="enter_password">Create Password</string>
+    <string name="login">Login</string>
+    <string name="enter_passwords">Enter Password</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
